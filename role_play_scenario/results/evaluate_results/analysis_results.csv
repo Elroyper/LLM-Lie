@@ -1,0 +1,5 @@
+filename,total_items,valid_items,missing_items,avg_liar_score
+eva_template_a_baseline.json,59,59,0,0.5338983050847458
+eva_template_b_baseline.json,60,60,0,0.7066666666666667
+eva_template_b_positive_control.json,57,57,0,0.5929824561403508
+eva_template_b_negative_control.json,59,59,0,0.8322033898305085
